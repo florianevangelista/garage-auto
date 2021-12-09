@@ -15,7 +15,7 @@ const getUsers = () => {
 
                 document.getElementById('car').innerHTML += `<div class="col-lg-4 col-sm-6 col-6">
                 <div class="ltn__product-item ltn__product-item-3 text-center">
-                    <a href="`+autoscout+`">
+                    <a href="`+autoscout+`" target="_blank">
                         <div class="product-img">
                             <img src="`+url+`" alt="#">
                         </div>
