@@ -1,4 +1,4 @@
-var key = config.SECRET_API_KEY;
+var key = process.env.SECRET_API_KEY;
 
 const getUsers = () => {
     axios.get('https://api.airtable.com/v0/app98z1ApOfIDLukv/Table%201?api_key='+key)
