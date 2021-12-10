@@ -69,6 +69,11 @@ font-family: 'Rajdhani', sans-serif;
   margin-left: -15px;
   margin-right: -15px; }
 
+.h2entretien {
+  color: rgb(63, 62, 62);
+  font-weight: 500;
+}
+
 .col,
 .col-1,
 .col-10,
